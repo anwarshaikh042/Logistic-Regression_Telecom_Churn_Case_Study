@@ -1,1 +1,3 @@
-# Logistic-Regression_Telecom_Churn_Case_Study
+# Telecom Churn Case Study
+
+
